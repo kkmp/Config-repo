@@ -19,6 +19,6 @@ spec:
     spec:
       containers:
       - name: zad2-container
-        image: kkmp13/zad2:1.0.8
+        image: kkmp13/zad2:1.0.11
         ports:
         - containerPort: 80
